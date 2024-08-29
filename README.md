@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## The figma template link
+
+`https://www.figma.com/design/FHEN8l5THsabutI06zIgON/Tokena?node-id=5002-3&node-type=CANVAS&t=QsVLvrbXZM5hJfBZ-0`
+
+## About
+
+I do this challenge to improve my frontend skills with TailwindCSS (CSS Framework) and Angular (JS Framework)
