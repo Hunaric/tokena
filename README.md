@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## The figma template link
 
-`https://www.figma.com/design/FHEN8l5THsabutI06zIgON/Tokena?node-id=5002-3&node-type=CANVAS&t=QsVLvrbXZM5hJfBZ-0`
+[Figma template] (https://www.figma.com/design/FHEN8l5THsabutI06zIgON/Tokena?node-id=5002-3&node-type=CANVAS&t=QsVLvrbXZM5hJfBZ-0)
 
 ## About
 
